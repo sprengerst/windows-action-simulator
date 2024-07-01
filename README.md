@@ -2,4 +2,8 @@ A small tool that prevents screensavers or automatic lock on windows computers. 
 
 
 ## Start
-double click on mouse.bat
+double click on mouse-simulator.bat
+
+
+## END
+Ctrl + C 
